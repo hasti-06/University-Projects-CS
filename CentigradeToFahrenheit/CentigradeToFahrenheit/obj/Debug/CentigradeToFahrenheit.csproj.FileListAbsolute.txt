@@ -1,0 +1,8 @@
+C:\Users\MSA\Desktop\C# Projects\CentigradeToFahrenheit\CentigradeToFahrenheit\bin\Debug\CentigradeToFahrenheit.exe.config
+C:\Users\MSA\Desktop\C# Projects\CentigradeToFahrenheit\CentigradeToFahrenheit\bin\Debug\CentigradeToFahrenheit.exe
+C:\Users\MSA\Desktop\C# Projects\CentigradeToFahrenheit\CentigradeToFahrenheit\bin\Debug\CentigradeToFahrenheit.pdb
+C:\Users\MSA\Desktop\C# Projects\CentigradeToFahrenheit\CentigradeToFahrenheit\obj\Debug\CentigradeToFahrenheit.csproj.AssemblyReference.cache
+C:\Users\MSA\Desktop\C# Projects\CentigradeToFahrenheit\CentigradeToFahrenheit\obj\Debug\CentigradeToFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\MSA\Desktop\C# Projects\CentigradeToFahrenheit\CentigradeToFahrenheit\obj\Debug\CentigradeToFahrenheit.exe
+C:\Users\MSA\Desktop\C# Projects\CentigradeToFahrenheit\CentigradeToFahrenheit\obj\Debug\CentigradeToFahrenheit.pdb
+C:\Users\MSA\Desktop\C# Projects\CentigradeToFahrenheit\CentigradeToFahrenheit\obj\Debug\CentigradeToFahrenheit.exe.config
