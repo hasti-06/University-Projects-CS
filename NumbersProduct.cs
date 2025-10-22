@@ -21,7 +21,8 @@ namespace NumbersProduct
                     p *= num;
                 }
             }while (num != 0);
-            Console.WriteLine($"The product of all numbers is : + {p}");
+            Console.WriteLine($"The product of all numbers is : {p}");
         }
     }
 }
+
